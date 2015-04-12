@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Where Toes Meet Sand</string>
+    <string name="hello_world">WHERE TOES MEET SAND</string>
+    <string name="browse">Browse the Collection</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_shop">Shop</string>
+    <string name="title_activity_shoe_browser">ShoeBrowser</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_cart">Cart</string>
+    <string name="empty_cart">Cart is Empty!</string>
+    <string name="title_activity_shoe_viewer">ShoeViewer</string>
+</resources>
